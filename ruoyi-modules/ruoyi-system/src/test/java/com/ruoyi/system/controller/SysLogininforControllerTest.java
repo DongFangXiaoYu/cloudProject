@@ -16,7 +16,4 @@ public class SysLogininforControllerTest {
     public void list() {
     }
 
-    @Test
-    public void export() {
-    }
 }
