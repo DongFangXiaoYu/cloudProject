@@ -26,6 +26,7 @@ public class SysNoticeControllerTest {
 
     @Test
     public void edit() {
+        System.out.println("23");
     }
 
     @Test
