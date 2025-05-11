@@ -37,5 +37,6 @@ public class SysUserOnlineControllerTest  {
 
     @Test
     public void forceLogout() {
+        System.out.println("test start--------------");
     }
 }
